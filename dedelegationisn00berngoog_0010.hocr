@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedelegationisn00berngoog_0010.png"; bbox 0 0 2834 4780; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 298 1321 949 1437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 298 1321 949 1437">
+     <span class='ocr_line' id='line_1_1' title="bbox 298 1321 949 1437; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 298 1322 636 1437; x_wconf 80' lang='lat' dir='ltr'><strong>GEORGIO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 691 1321 949 1436; x_wconf 84' lang='lat' dir='ltr'>BRUNS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 192 1674 1047 1826">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 1674 1047 1826">
+     <span class='ocr_line' id='line_1_2' title="bbox 192 1674 1047 1826; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 192 1674 665 1826; x_wconf 81' lang='lat' dir='ltr'>RUDOLPHO</span> <span class='ocrx_word' id='word_1_4' title='bbox 726 1709 1047 1825; x_wconf 67' lang='lat' dir='ltr'><strong>GNfflsT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 380 2185 861 2267">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 380 2185 861 2267">
+     <span class='ocr_line' id='line_1_3' title="bbox 380 2185 861 2267; baseline 0.006 -3"><span class='ocrx_word' id='word_1_5' title='bbox 380 2185 495 2265; x_wconf 74' lang='lat' dir='ltr'>vfflls</span> <span class='ocrx_word' id='word_1_6' title='bbox 522 2187 861 2267; x_wconf 79' lang='lat' dir='ltr'><strong>ILLUSTBISSIMIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1422 4780">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1422 4780">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1422 4780; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1422 4780; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
